@@ -1,4 +1,4 @@
-# Music-Recommender-System-based-on-Emotion
+# Emotionally Intelligent Music Recommender System                                                           
 
 Contributors:
 
